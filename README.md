@@ -15,7 +15,10 @@ This project is a responsive **Photo Gallery** built using HTML and CSS. The lay
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-![image](https://github.com/user-attachments/assets/17495793-b62c-4067-aa4f-d78810cfd8e5)
+
+
+![image](https://github.com/user-attachments/assets/1ceb7507-4002-47cc-9c5b-02461099cd3b)
+
 
 
 ## Overview
